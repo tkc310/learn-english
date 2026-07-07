@@ -36,8 +36,8 @@
     <td style="text-align: center;">複数</td>
   </tr>
   <tr>
-    <td rowspan="4" style="text-align: center;">3人称<br>(その他)</td>
-    <td rowspan="3" style="text-align: center;">単数</td>
+    <td rowspan="6" style="text-align: center;">3人称<br>(その他)</td>
+    <td rowspan="3" style="text-align: center;">単数<br>(人・モノ)</td>
     <td style="text-align: center;"><b>he</b>（男）</td>
     <td style="text-align: center;"><b>his</b></td>
     <td style="text-align: center;"><b>him</b></td>
@@ -56,10 +56,25 @@
     <td style="text-align: center;">-</td>
   </tr>
   <tr>
-    <td style="text-align: center;">複数</td>
+    <td style="text-align: center;">複数<br>(人・モノ)</td>
     <td style="text-align: center;"><b>they</b></td>
     <td style="text-align: center;">their</td>
     <td style="text-align: center;"><b>them</b></td>
     <td style="text-align: center;">theirs</td>
   </tr>
+  <tr>
+    <td style="text-align: center;">単数<br>(指示)</td>
+    <td style="text-align: center;"><b>this / that</b></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;"><b>this / that</b></td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">複数<br>(指示)</td>
+    <td style="text-align: center;"><b>these / those</b></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;"><b>these / those</b></td>
+    <td style="text-align: center;">-</td>
+  </tr>
 </table>
+
