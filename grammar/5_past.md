@@ -40,7 +40,7 @@ don't, dosen't -> didn't
 - 現在: `He dosen't read a textbook. (彼は参考書を読まない)`
 - 過去: `He did't read a textbook. (彼は参考書を読まなかった)`
 
-> [!TIP]
+> [!NOTE]
 > 過去形の否定文と疑問文は一般動詞が原形に戻る
 
 
@@ -59,6 +59,13 @@ didで答える
 - `Yes, I did.`
 - `No, I didn't.`
 
-> [!TIP]
+> [!NOTE]
 > 過去形の否定文と疑問文は一般動詞が原形に戻る
+
+### 過去を表す語句
+
+yesterday / last ... / ...ago / then [at that time] 
+
+- `She ate this cake yeasterday.`
+- `I checked the official website this morning.`
 
