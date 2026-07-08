@@ -29,7 +29,36 @@
 2-5. `He dosen't (tell) any stories to me.`
 `He dosen't tell any stories to me.`
 
-
 ## Lesson10 過去形の演習
 
+### 1. 過去形にする
+
+1-1. `Your brother studies English in my room.`
+`Your brother studied English in my room.`
+1-2. `Is this stick long or short?`
+`Was this stick long or short?`
+1-3. `Dose your teacher slove this hard homework? No, he dosen't.`
+`Did your teacher slove this hard homework? No, he didn't.`
+1-4. `The messages aren't important at all.`
+`The messages weren't important at all.`
+
+### 2. 文を書き直す
+
+2-1. `Did he watch that show last night?` (last night -> every dayにして現在形にする)
+`Dose he watch that show every day.`
+2-2. `They didn't carry the box out of this room.` (過去の肯定文にする)
+`They carried the box out of this room.`
+2-3. `She uses this bed every day.` (every day -> last nightにして否定文にする)
+`She didn't use this bed last night.`
+2-4. `He washes his shoes in the garden.` (文末にyesterdayをつけて疑問文にする)
+`Did he wash his shoes in the garden yeasterday?`
+
+### 3. 文を完成させる
+
+3-1. 君たちはそこにいた？
+[ Were ] you there? 
+3-2. 彼はその時彼女を見なかった
+He [ did't ] see [ her ] [ then ]
+3-3. 昨日の夜、雨が降った？
+[ Did ] it rain [ last ] night?
 
