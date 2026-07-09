@@ -34,6 +34,33 @@
 - 応答: `Yes, he will / No, he won't`
 - 否定の短縮形: `will not -> won't`
 
+## be going to と will の違い
 
+|表現|訳|役割|
+|-|-|-|
+|be going to|〜するつもり|主観的な未来の行動の表現 <br /> (計画的で確実性が高い)|
+|will|〜だろう|客観的な未来のスケジュールを表現|
 
+be going to は準備が完了して計画が現実に向かっているニュアンス。
+
+- `We are going to live in New Zealand next year. (私たちは来年からニュージーランドで暮らすつもり)`
+- `We will live in New Zealand some day. (私たちはいつかニュージランドで暮らすだろう)`
+
+## 未来を表す語句
+
+- tomorrow
+- next [week / month / year / time]
+- this [weekend]
+- some day
+- in the future
+
+## will は助動詞
+
+現在形や過去形とは違い、未来を表現する際に「未来形」の動詞は存在しない。  
+
+- 現在形: He plays tennis.
+- 過去形: He played tennis.
+- 未来の表現: He will play tennis.
+
+willを利用して動詞に意味を付け加える助けをするため助動詞と呼ばれる。
 
