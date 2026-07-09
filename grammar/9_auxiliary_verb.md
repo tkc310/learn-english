@@ -59,7 +59,7 @@
   - `The story can be true. (その話は真実であり得る)` -> can be ~ で可能性を表す
 
 > [!NOTE]
-> 「be able to + 動詞の原形」で言い換えられる。
+> 「be able to + 動詞の原形」で言い換えられる。  
 > He is able to pay enough money.
 
 
@@ -91,8 +91,8 @@ have[has] to で言い換えられる。(日常会話はこちらの方が多い
 - 応答: Yes, I do. / No, I don't.
 
 > [!NOTE]
-> don't[doesn't] have to の用法
-> 「〜する必要はない」という意味になる。(must not は禁止)
+> don't[doesn't] have to の用法  
+> 「〜する必要はない」という意味になる。(must not は禁止)  
 > You don't have to go alone. (あなたは一人で行く必要はない)
 
 ## may
