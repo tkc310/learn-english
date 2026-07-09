@@ -14,22 +14,37 @@
 
 ## 助動詞の種類
 
-### 1. will
+### will
 
 - 意味: 〜するつもり / 〜するつもりはない (否定)
 - 否定形: won't [will not]
 - 過去形: would
 - 否定形過去: wouldn't [would not]
-- 主語との短縮: I'll [I will]
+- 主語との短縮: I'll [I will] / I'd [I would]
 
 単純未来の「する予定」に比べて、「〜するよ」という意志を伝える意味がある。
 
-- 1-1. 判断
-`I'll cheer her up right now. (私が今すぐ彼女を元気づけてくるよ)`
-- 1-2. 意志
-- 1-3. 拒絶
+- **1. 判断**
+  - `I'll cheer her up right now. (私が今すぐ彼女を元気づけてくるよ)`
+- **2. 意志**
+  - `Have a nice weekend! (良い週末を過ごして！)`
+  - `I'll do my best. (ベストを尽くすよ)`
+- **3. 拒絶** -> doesn't に比べて強い否定
+  - `My dog won't eat carots and pumpkins. (私の犬はニンジンとカボチャを食べようとしない)`
 
+**丁寧なお願いの例文**
 
+- `Will you explain the problem? (その問題を説明してくれませんか？)`
+- `Would you like some tea or cofee? (お茶かコーヒーはいかがですか？)` -> would like は丁寧なお願いをする時に使う
+- `I'd like to speak to Mr.Williams about our schedule. (ウィリアムズ氏に私たちの予定について話をさせていただいてもいいですか？)`
+
+|助動詞|ニュアンス|心理的な状態相手へのプレッシャー|
+|-|-|-|
+|Will you ~?|現在形（ゼロ距離）|「〜する意志はある？」と目の前でストレートに聞く形。 <br /> 距離が近く、カジュアル。強い（イエスかノーかの返答を迫る）|
+|Would you ~?|過去形（距離を置く）|「（もし可能であれば）〜していただけますか？」と一歩引く形。 <br /> 控えめで、丁寧。弱い（ノーと断る余地を残してあげる）|
+
+> [!NOTE]
+> would を現在形で利用するのは過去形が持つ「現実からの距離感（心理的なお辞儀）」という文法的な性質があるため。
 
 
 
