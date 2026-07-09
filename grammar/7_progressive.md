@@ -9,11 +9,17 @@
 
 ## ingにしない動詞
 
-前述の動詞は「動作動詞」のためingが必要だが、下記の動詞は「状況動詞」のため不要。
+前述の動詞は「動作動詞」のためingが必要だが、下記の動詞は「状況・状態動詞」のため不要。
 
 - 心理: like / love / know / understand
-- 状態: be動詞 / have (eatの場合はok) `I'm having curry.`
+- 状態: be動詞 / live / have (eatの場合はok)
 - 知覚・感覚: 、see / hear / feel
+
+**例文**
+
+- `I'm having curry.`
+- `I live in Kyoto.`
+- `Do they know about me?`
 
 ## 現在進行形
 
