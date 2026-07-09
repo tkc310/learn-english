@@ -40,7 +40,8 @@ graph TD
 | | **複数・その他**<br>(The birds / I) | The birds **escape**. | The birds **do not escape**. | **Do** the birds **escape**? |
 | **過去形**<br>（過去の事実・出来事） | **すべて共通**<br>(単数も複数も同じ) | The bird **escaped**. | The bird **did not escape**. | **Did** the bird **escape**? |
 
-> 💡 **ポイント**: 否定文・疑問文になると、`escapes` や `escaped` は元の形（**escape**）に戻ります。
+> [!NOTE]
+> 否定文・疑問文になると、`escapes` や `escaped` は元の形（**escape**）に戻ります。
 
 ---
 
@@ -54,7 +55,8 @@ graph TD
 | **過去進行形**<br>（そのとき〜していた）| **三人称単数**<br>(The bird) | The bird **was escaping**. | The bird **was not escaping**. | **Was** the bird **escaping**? |
 | | **複数形**<br>(The birds) | The birds **were escaping**. | The birds **were not escaping**. | **Were** the birds **escaping**? |
 
-> 💡 **ポイント**: `escaping` の形は主語が変わっても一切変わりません。手前の **be動詞（is/are/was/were）だけ**が変わります。
+> [!NOTE]
+> `escaping` の形は主語が変わっても一切変わりません。手前の **be動詞（is/are/was/were）だけ**が変わります。
 
 ---
 
@@ -67,4 +69,5 @@ graph TD
 | **be going to**<br>（〜する予定だ / 兆候）| **三人称単数**<br>(The bird) | The bird **is going to escape**. | The bird **is not going to escape**. | **Is** the bird **going to escape**? |
 | | **複数形**<br>(The birds) | The birds **are going to escape**. | The birds **are not going to escape**. | **Are** the birds **going to escape**? |
 
-> 💡 **ポイント**: `will` の後ろは必ず動詞の元の形（**escape**）になります。`be going to` は進行形と同じく、先頭の **be動詞（is/are）だけ**が変化します。
+> [!NOTE]
+> `will` の後ろは必ず動詞の元の形（**escape**）になります。`be going to` は進行形と同じく、先頭の **be動詞（is/are）だけ**が変化します。
