@@ -75,3 +75,41 @@ graph TD
 
 > [!NOTE]
 > `will` の後ろは必ず動詞の元の形（**escape**）になる。`be going to` は進行形と同じく、先頭の **be動詞（is/are）だけ**が変化する。
+
+---
+
+# 否定文・疑問文の瞬間判断ルール
+
+否定文・疑問文を作るときは、元の文の動詞の「形」を見て、使う言葉を3つにグループ分けする。
+
+```mermaid
+graph TD
+    A[動詞の形を見る] --> B{どのグループ?}
+    
+    B -->|動詞のまま<br>s や ed がある| C[1. 一般動詞グループ<br>do / does / did]
+    B -->|動詞が ing 形<br>〜している最中| D[2. 進行形グループ<br>is / are / was / were]
+    B -->|未来の表現<br>will / be going to| E[3. 未来グループ<br>will / is / are]
+```
+
+---
+
+## 瞬間判断の比較表
+
+否定文は**「この言葉の後ろに not を置く」**、疑問文は**「この言葉を主語の前に出す」**と判断する。
+
+| グループ（文の形） | 使う言葉 | 瞬間的な見分け方 | 例文（否定 / 疑問） |
+| :--- | :--- | :--- | :--- |
+| **1. 一般動詞**<br>（現在・過去） | **do / does / did** | 動詞がそのままポツンとあるとき。<br>（`escapes`, `escaped` など） | The bird **does not** escape.<br>**Does** the bird escape? |
+| **2. 進行形**<br>（いま・そのとき） | **is / are / was / were** | 動詞が **ing形** になっているとき。<br>（`escaping`） | The bird **is not** escaping.<br>**Is** the bird escaping? |
+| **3. 未来表現**<br>（これから〜する） | **will**<br>または<br>**is / are** | **will** が見えているか、<br>**be going to** のとき。 | The bird **will not** escape.<br>The bird **is not** going to escape. |
+
+---
+
+## 判断を速くする3つのポイント
+
+1. **一般動詞は「応援団（do / does / did）」を呼ぶ**
+   * 動詞（escape）だけでは否定・疑問の形になれない。そのため、代わりに do / does / did を呼び出す。
+2. **進行形は「be動詞」が主役**
+   * 動詞が `ing` になったら、後ろの `escaping` はそのまま動かさない。手前の **be動詞（is/are/was/were）** だけをいじる。
+3. **will があれば will が最優先**
+   * 英文の中に **will** があれば、do や be動詞の出番はない。will の後ろに not を置き、will を前に出す。
