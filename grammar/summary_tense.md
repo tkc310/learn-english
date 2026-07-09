@@ -1,11 +1,11 @@
 # 英語の基本時制・表現のまとめ
 
-主語を「The bird（その鳥）」、動詞を「escape（逃げる）」に統一した、各時制の文法と例文の比較です。
+主語を「The bird（その鳥）」、動詞を「escape（逃げる）」に統一し、各時制の文法と例文を比較する。
 
 ---
 
 ## 1. 時制の全体イメージ図
-各時制がどのような意味の広がりを持っているかの全体像です。
+各時制がどのような意味の広がりを持っているかの全体像。
 
 ```mermaid
 graph TD
@@ -32,21 +32,21 @@ graph TD
 ## 2. 文法・例文比較表
 
 ### 【基本の時制】現在形・過去形
-現在形と過去形は、**一般動詞（escape）自体を変化**させます。否定文や疑問文では **does / did** の力を借ります。
+現在形と過去形は、**一般動詞（escape）自体を変化**させる。否定文や疑問文では **does / did** を補う。
 
 | 時制 | 人称変化（主語） | 肯定文 | 否定文 | 疑問文 |
 | :--- | :--- | :--- | :--- | :--- |
 | **現在形**<br>（現在の事実・習慣・習性） | **三人称単数**<br>(The bird) | The bird **escapes**. | The bird **does not escape**. | **Does** the bird **escape**? |
 | | **複数・その他**<br>(The birds / I) | The birds **escape**. | The birds **do not escape**. | **Do** the birds **escape**? |
-| **過去形**<br>（過去の事実・出来事） | **すべて共通**<br>(単数も複数も同じ) | The bird **escaped**. | The bird **did not escape**. | **Did** the bird **escape**? |
+| **過去形**<br>（過去の事実・出来事） | **すべて共通**<br>(単数・複数同形) | The bird **escaped**. | The bird **did not escape**. | **Did** the bird **escape**? |
 
 > [!NOTE]
-> 否定文・疑問文になると、`escapes` や `escaped` は元の形（**escape**）に戻ります。
+> 否定文・疑問文では、`escapes` や `escaped` は元の形（**escape：原形**）に戻る。
 
 ---
 
 ### 【進行形】現在進行形・過去進行形
-進行形は **[ am / is / are / was / were ] ＋ [ 動詞のing形 ]** のセットで作ります。人称変化や否定・疑問のルールはすべて **be動詞のルール** に従います。
+進行形は **[ am / is / are / was / were ] ＋ [ 動詞のing形 ]** の組み合わせで作る。人称変化や否定・疑問のルールは、すべて **be動詞の規則** に従う。
 
 | 時制 | 人称変化（主語） | 肯定文 | 否定文 | 疑問文 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -56,18 +56,18 @@ graph TD
 | | **複数形**<br>(The birds) | The birds **were escaping**. | The birds **were not escaping**. | **Were** the birds **escaping**? |
 
 > [!NOTE]
-> `escaping` の形は主語が変わっても一切変わりません。手前の **be動詞（is/are/was/were）だけ**が変わります。
+> `escaping` の形は主語が変わっても変化しない。手前の **be動詞（is/are/was/were）だけ**が変化する。
 
 ---
 
 ### 【未来の表現】will と be going to
-未来の表現には主に2つのパターンがあります。助動詞の **will** を使う形と、進行形に似た **be going to** を使う形です。
+未来の表現には主に2つのパターンがある。助動詞の **will** を使う形と、進行形に似た **be going to** を使う形である。
 
 | 表現パターン | 人称変化（主語） | 肯定文 | 否定文 | 疑問文 |
 | :--- | :--- | :--- | :--- | :--- |
-| **will**<br>（〜するだろう / 意志） | **すべて共通**<br>(単数も複数も同じ) | The bird **will escape**. | The bird **will not escape**. | **Will** the bird **escape**? |
+| **will**<br>（〜するだろう / 意志） | **すべて共通**<br>(単数・複数同形) | The bird **will escape**. | The bird **will not escape**. | **Will** the bird **escape**? |
 | **be going to**<br>（〜する予定だ / 兆候）| **三人称単数**<br>(The bird) | The bird **is going to escape**. | The bird **is not going to escape**. | **Is** the bird **going to escape**? |
 | | **複数形**<br>(The birds) | The birds **are going to escape**. | The birds **are not going to escape**. | **Are** the birds **going to escape**? |
 
 > [!NOTE]
-> `will` の後ろは必ず動詞の元の形（**escape**）になります。`be going to` は進行形と同じく、先頭の **be動詞（is/are）だけ**が変化します。
+> `will` の後ろは必ず動詞の元の形（**escape**）になる。`be going to` は進行形と同じく、先頭の **be動詞（is/are）だけ**が変化する。
