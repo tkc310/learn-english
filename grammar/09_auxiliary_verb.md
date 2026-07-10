@@ -80,7 +80,7 @@
 
 ### have to
 
-have[has / had] to で言い換えられる。(日常会話はこちらの方が多い)  
+「have[has / had] to + 動詞の原形」で言い換えられる。(日常会話はこちらの方が多い)  
 - `He must agree to this offer.`  
   - -> `He has to agree to this offer. (彼はこのオファーに同意しなければならない)`  
   - -> `He had to agree to this offer. (彼はこのオファーに同意しなければならなかった)`  
