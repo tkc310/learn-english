@@ -24,6 +24,15 @@
 3. `He could't control the situation.`  
 `He [ wasn't ] [ able ] [ to ] control the situation.`
 
+### 4. 単語を入れる
+
+1. 僕に電話してくれませんか？ はい、します
+`[ could ] you call me? Yes, I [ can ].`
+2. 彼は今、家にいるに違いない  
+`He [ must ] [ be ] home now.`
+3. 彼女がミスを犯すことはあり得る  
+`She [ can ] make a mistake.`
+
 ## Lesson15の演習
 
 
