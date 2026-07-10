@@ -80,7 +80,7 @@
 
 ### have to
 
-have[has] to で言い換えられる。(日常会話はこちらの方が多い)  
+have[has / had] to で言い換えられる。(日常会話はこちらの方が多い)  
 - `He must agree to this offer.`  
   - -> `He has to agree to this offer. (彼はこのオファーに同意しなければならない)`  
   - -> `He had to agree to this offer. (彼はこのオファーに同意しなければならなかった)`  
@@ -89,6 +89,8 @@ have[has] to で言い換えられる。(日常会話はこちらの方が多い
 - 肯定: You have to go alone. (あなたは一人で行かなければならない)
 - 疑問: Do You have to go alone? (あなたは一人で行かなければならないのか？)
 - 応答: Yes, I do. / No, I don't.
+- 過去: He had to go alone.
+- 過去疑問: Did he have to go alone?
 
 > [!NOTE]
 > don't[doesn't] have to の用法  
