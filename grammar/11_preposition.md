@@ -14,7 +14,99 @@
   - `She hates the crrowd in a concert. (彼女はコンサートの群衆が嫌いだ)` -> the crrowd (C), in a concert (M)
   - `Some pilots are from China. (何人かのパイロットは中国出身だ)` -> from China (C)
 
-### 2. 自動詞 + 前置詞 = 目的語
+### 2. 自動詞 + 前置詞 + 目的語
+
+`We're looking for him in a group. (私たちはグループで彼を探している)` -> looking (V) for (前置詞) him (O)  
+前置詞の後に配置する名詞は目的語になり、代名詞は目的語になる。  
+
+`I looked at the new design. (私はその新しいデザインを見た)` -> looked (V) at (前置詞) the new design (O)  
+
+
+## 時の前置詞
+
+前置詞の後に時を示す名詞が配置される。
+
+<table>
+  <tr><th></th><th>意味</th><th>後の時間表現</th></tr>
+  <tr>
+    <td>in</td>
+    <td rowspan="3">〜に</td>
+    <td>年、月、季節</td>
+  </tr>
+  <tr>
+    <td>on</td>
+    <td>曜日、特定日</td>
+  </tr>
+  <tr>
+    <td>at</td>
+    <td>時制</td>
+  </tr>
+</table>
+
+> [!NOTE]
+> at < on < in のイメージ
+
+**例文**  
+
+- `School starts in spring.`
+- `He came to Japan in 2000.`
+- `He is going to ski in the winter.`
+- `We can enjoy New Year's Eve in December. (12月に私たちは大晦日を楽しむことができる)`
+- `You go shopping on Sunday.`
+- `We got married on October 8.`
+- `I go to bed at 11.`
+
+### 期間を表す前置詞
+
+||意味|表現する時間|
+|-|-|-|
+|for|〜の間|具体的な年数・日数・時間|
+|during|〜の期間|大まかな期間や時期|
+|till[until]|〜まで|動作の継続時間|
+|by|〜までに|動作の完了期限|
+
+そのほかに下記がある。  
+before(〜の前に) / after(〜の後に) / through(〜の間中) / from A to B(AからBまで)
+
+**例文**
+
+- `You should study English for 3 hours a day. (あなたは１日３時間英語を勉強すべき)`
+- `I will stay there during the national holidays. (私は祝日の間、そこに滞在する予定だ)`
+- `You have to be here till next Monday. (あなたは来週の月曜まで、ここにいなければならない)`
+- `I must come back by next Monday. (私は次の月曜までに戻らなければならない)`
+
+> [!NOTE]
+> tillはカジュアル、untillはフォーマルな表現
+
+
+## 場所の前置詞
+
+||意味|場所|
+|-|-|-|
+|in|〜に|広がりのある空間、単なる場所|
+|at|〜で|局所的な場所・地点、目的を果たす場所|
+|on|〜の上で|面に接地|
+
+> [!NOTE]
+> イメージ: [in] / [] [at] [] / |on
+
+そのほかに下記がある。  
+- under(〜の真下に) / over(〜の真上に)
+- above(〜より上方に) / below(〜より下方に)
+- behind(〜の後ろ) / in front of(〜の前)
+- near(〜の近くに) / by(〜のそばに) -> nearより近い
+- among(3つ以上の間で) / between(2つ以上の間で) / between A and B (AとBの間で)
+
+**例文**
+
+- `They may be quite famous in France. (彼らはフランスで有名かも)` -> in France
+- `She will be able to meet him at the station. (彼女は彼と駅で会うことができるだろう)` -> at the station
+- `There wasn't such a flag on the beach. (浜辺にそんな旗はなかった)` -> on the beach (such は a flag を指す)
+- `Look at the romantic picture on the wall. (壁に掛かった空想的な絵を見なさい)` -> on the wall (look at で見なさい)
+
+
+## 方向の前置詞
+
 
 
 
