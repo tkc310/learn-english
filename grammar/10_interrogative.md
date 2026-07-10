@@ -55,6 +55,11 @@ What color のように名詞の前に配置する。
 - **2. 疑問形容詞**
   - `Which car is hers? (どちらが彼女の車？)` -> `The red one.`
 
+> [!NOTE]
+> Which で聞かれた時の応答は ~ one で「〜の方」になる
+
+
+
 
 ### who
 
