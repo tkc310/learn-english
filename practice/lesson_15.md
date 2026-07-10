@@ -35,10 +35,34 @@
 
 ## Lesson15の演習
 
+### 1. 応答文を選ぶ
+
+1. `How will you go to Hokkaido next year?` -> `(b) By air.`
+2. `Whose cap is this?` -> `(e) It's mine.`
+3. `Which chair is Takashi's?` -> `(d) The white one.`
+4. `How much is this lesson?` -> `(a) $250 a month.`
+5. `Who broke my cup?` -> `(c) Your brother did.`
 
 
+### 2. 正しい単語を入れる
 
+1. 彼はどれくらい遠くまで歩ける？  
+`[ How ] far [ can ] he take a walk?`
+2. どれがあなたのカバン？  
+`[ Which ] [ is ] your bag?`
+3. どこであなたはこれを買った？  
+`[ Where ] [ did ] you [ buy ] this?`
+4. あの男は誰？  
+`[ Who ] [ is ] that man?`
+5. 何の音楽が好き？  
+`[ What ] [ music ] [ do ] you like?`
+6. 昨日、何時にあなたは私に電話をした？    
+`[ What ] [ time ] [ did ] you call me yesterday?`
 
+### 3. 指定した単語を尋ねる疑問文にする
 
-
+1. `It rains a lot in June. (6月に雨がたくさん降る)` (in June)  
+`When does it rain a lot?`
+2. `My mom had 20 records. (私の母は20枚のレコードを持っていた)` (20 records)  
+`How many record did your mom have?`
 
