@@ -81,6 +81,8 @@ before(〜の前に) / after(〜の後に) / through(〜の間中) / from A to B
 
 ## 場所の前置詞
 
+同じ前置詞が時や場所を表すため紛らわしい。
+
 ||意味|場所|
 |-|-|-|
 |in|〜に|広がりのある空間、単なる場所|
@@ -107,7 +109,27 @@ before(〜の前に) / after(〜の後に) / through(〜の間中) / from A to B
 
 ## 方向の前置詞
 
+どこを起点・到達点にしているかで使い分ける
 
+||意味|方向|
+|-|-|-|
+|for|〜のために|目的や到達の方向(到達したかは未定)|
+|to|〜へ|地点や時の方向(到達した)|
+|from|〜から|矢印の起点|
+
+
+そのほかに下記がある。  
+against(〜に反対して、逆らって) / across(〜を横切って、渡って) / along(〜に沿って)
+
+
+**例文**
+
+- `I bought a bunch of roses for my wife. (私は妻に薔薇の花束を買った)`
+- `We went to the west of Russia last September. (私たちは昨年９月にロシア西部に行った)`
+- `You came from the east of London, right? (あなたはロンドン東部から来た？)`
+- `The ship was going against the wave. (その船は波に逆らって進んでいた)`
+- `There is a new house across this street. (この通りを渡った先に新しい家がある)`
+- `Go straight along this main street. (このメインストリートに沿ってまっすぐ行きなさい)`
 
 
 
