@@ -37,8 +37,35 @@
 
 ## Lesson17の演習
 
+### 1. 英文中の不定詞の役割を選択
+
+1. `Its purpose is to help people.` (to help) -> 補語の役割 (ウ) / 名詞的用法
+2. `I had a lot of things to do last night.` (to do) -> 修飾語の役割 (エ) / 形容詞的用法
+3. `His sister wanted to visit some temples in Kyoto.` (to visit) -> 目的語の役割 (イ) / 名詞的用法
+4. `She was very surprised to lean the custom.` (to lean) -> 修飾語の役割 (エ) / 副詞的用法
+5. `To teach kids will be my job.` (To teach) -> 主語の役割 (ア) / 名詞的用法
 
 
+### 2. 指定した単語数で不定詞を使った英文にする
+
+1. 私たちには英語を話すことが難しい (8)  
+`It is difficult fot us to speak English.` -> It is ... ( for A ) to 動詞の原形
+2. 私の姉の仕事は本を書くことだ (7)  
+`My sister's job is write books.` -> sister's は姉妹の所有格
 
 
+### 3. 並び替え
+
+1. bad news / very sad / I / the / was / hear / to / .  
+`I was very sad to hear the bad news. (私はその知らせを聞いてとても悲しんだ)`
+2. go abroad / to / they / a new job / decided / find / to / .  
+`They decide to go abroad to find a new job. (彼らは新しい仕事を見つけるために海外に行くことを決めた)`
+3. nothing / last night / me / he / to / had / tell / .  
+`He had nothing to tell me last night. (彼は昨夜私に話すことは何もなかった)`
+
+
+### 4. 文系を記入
+
+1. `His dream was to become a firefighter to help people.` SVC -> firefighter は消防士  
+2. `They took me to a cliff in Saipan.` SVO -> 「take + 人 + to」 で「人を〜に連れて行く」
 
