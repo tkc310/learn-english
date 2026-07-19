@@ -5,7 +5,7 @@
 動詞が名詞になったものを動名詞と呼ぶ。  
 「〜すること」を動詞のing形で表して、不定詞の名詞的用法とほぼ同じ働きをする。
 
-read -> reading / stury -> studying
+read -> reading / study -> studying
 
 不定詞の名詞的用法 ＝ 動名詞(動詞のing形) = 「〜すること」
 
