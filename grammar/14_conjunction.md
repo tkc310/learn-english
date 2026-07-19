@@ -17,8 +17,8 @@ Tom got angry. + Tom went home. + Kerry came late.
 
 文を構成する区分は句と節に分けられる。  
 
-- [ Your father ] is [ from Hokkaido ].
-- [ To teach you English every day ] is [ my job ].
+- [ Your father (名詞句=修飾語+名詞)] is [ from Hokkaido - [ Your father (名詞句=修飾語+名詞)] is [(形容詞句=)].
+- [ To teach you English every day (名詞句=不定詞)] is [ my job ].
 
 
 
