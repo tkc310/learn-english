@@ -126,9 +126,22 @@ I didn't know (主節) that she got married to him (従属節). (私は彼女と
 </table>
 
 
+- 理由を追加する because<br>
+He was sure because he knew everything. (彼は確かだった、なぜなら全て知っていたから)
+- 条件を追加する if<br>
+We will meet him if it is fine tomorrow. (もし明日晴れなら、私たちは彼と会う予定だ)
+- 譲歩を表す though<br>
+I hurt her last night though I didn't mean it. (そんなつもりではなかったが、私は昨夜彼女を傷つけた)
 
 
+## 接続詞は文型を変化させる
 
+He(S) studied(V) pop music(O) in New York.
 
+上記はSVが一つずつ利用されているが、接続詞を利用するとSVが複数になる。<br>
+He(S) studied(V) music(O) and his sister(S) studied(V) art(O) in New York.
 
+また、主語(S)や動詞(V)の省略も可能になる。<br>
+- He(S) went(V) to the island(O) and [he] never came(V) back.
+- She(S) ordered(V) a sandwich(O) but I(S) didn't [ordered a sandwich].
 
