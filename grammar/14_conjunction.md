@@ -82,7 +82,7 @@ The baby began to cry (主節) when she returned (従属節). (彼女が戻っ�
 副詞節は自由に場所を移動できるため、文頭に持ってくることも可能。  
 When she returned, the baby began to cry.
 
-#### 2. 名詞節 (名詞のカタマリ)
+#### 2. 名詞節 / that節 (名詞のカタマリ)
 
 名詞節は that を利用して目的語になることができる。  
 
