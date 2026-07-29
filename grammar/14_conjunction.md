@@ -90,6 +90,9 @@ I didn't know (主節) that she got married to him (従属節). (私は彼女と
 
 主節 know の目的語として that で作った従属節が利用されている。
 
+> [!NOTE]
+> 接続詞の that は省略可能
+
 
 ## 従属接続詞の種類
 
