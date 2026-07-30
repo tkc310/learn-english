@@ -137,6 +137,12 @@ We will meet him if it is fine tomorrow. (もし明日晴れなら、私たち�
 I hurt her last night though I didn't mean it. (そんなつもりではなかったが、私は昨夜彼女を傷つけた)
 
 
+> [!NOTE]
+> 「理由 + so + 結論」は「結論 + because + 理由」の反対
+> - so: 結論を強調したいとき
+> - because: 理由を強調したいとき
+
+
 ## 接続詞は文型を変化させる
 
 He(S) studied(V) pop music(O) in New York.
