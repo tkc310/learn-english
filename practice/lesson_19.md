@@ -61,15 +61,24 @@ when / or / if / because / that / and / but
 
 ### 3. 適切な単語を入れる
 
-1. それは面白そうだけど、私は家に一日中いなければならない
-2. もし今夜、彼女が私に電話してきたら「ありがとう」と言う
-3. 私は申し訳ないと思ったので彼女にメールを送った
-4. 彼が帰ってきたというのは本当です。
-5. その少年はその箱を盗んだが私の息子は盗まなかった
-6. 彼がカナダに行く予定だと聞き私はとても悲しい
+1. それは面白そうだけど、私は家に一日中いなければならない<br>
+`I [ must ] stay home all day long [ though ] it sounds interesting.` -> all day long で「一日中」
+2. もし今夜、彼女が私に電話してきたら「ありがとう」と言う<br>
+`I'll say "Thank you" [ if ] she [ calls ] [ me ] tonight.` -> 副詞は条件を表すため現在形 (calls)
+3. 私は申し訳ないと思ったので彼女にメールを送った<br>
+`I felt sorry [ so ] I sent an email to her.`
+4. 彼が帰ってきたというのは本当です<br>
+`It is true [ that ] he came back.`
+5. その少年はその箱を盗んだが私の息子は盗まなかった<br>
+`The boy stole the box [ but ] my son [ didn't ].`
+6. 彼がカナダに行く予定だと聞き私はとても悲しい<br>
+`I'm so sad to hear he [ will ] [ go ] [ to ] [ Canada ].`
 
 
-
+> [!NOTE]
+> 「理由 + so + 結論」は「結論 + because + 理由」の反対
+> - so: 結論を強調したいとき
+> - because: 理由を強調したいとき
 
 
 
