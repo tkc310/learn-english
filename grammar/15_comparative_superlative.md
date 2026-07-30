@@ -27,7 +27,7 @@ She is younger than me.
 - Lisa can swim fastest in the class.  (リサはクラスで１番泳ぐのが早い)
 
 > [!NOTE]
-> 副詞の前の the は省略してok<br>
+> 副詞(名詞以外を修飾)の前の the は省略してok<br>
 > in / of のときは3つ以上の範囲の最上級
 
 
