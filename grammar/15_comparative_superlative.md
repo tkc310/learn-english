@@ -30,6 +30,38 @@ She is younger than me.
 > 副詞の前の the は省略してok
 
 
+## 比較級 / 最上級の作り方
+
+||語尾変化|原級の例|比較級・最上級|
+|-|-|-|-|
+|パターン1|通常は er / est|tall|taller than<br>the tallest|
+|パターン2|語尾が [子音+y] の場合は ier / iest|easy|easier than<br>the easiest|
+|パターン3|語尾が [短母音+子音] の場合は子音を1つ追加して er / est|big|bigger than<br>the biggest|
+|パターン4|語尾が e の場合は r / st|large|larger than<br>the largest|
+
+
+## moreの比較級 / the mostの最上級
+
+形容詞・副詞によっては er / est をつけない代わりに<br>
+more / the most を利用するパターンがある。
+
+careful -> more careful than / the most careful
+
+<table>
+  <tr><th></th><th>原級</th><th>比較級</th><th>最上級</th></tr>
+  <tr>
+    <td>2~3音節以上の語</td>
+    <td>careful / useful / poplar / famous /<br>interesting / important / difficult / beautiful</td>
+    <td rowspan="2">more<br>原級<br>than</td>
+    <td rowspan="2">the most<br>原級<br>in / of</td>
+  </tr>
+  <tr>
+    <td>2~3音節以上の語</td>
+    <td>quickly / slowly / carefully</td>
+  </tr>
+</table>
+
+
 
 
 
