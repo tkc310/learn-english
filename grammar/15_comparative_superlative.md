@@ -61,11 +61,25 @@ careful -> more careful than / the most careful
   </tr>
 </table>
 
+> [!NOTE]
+> 音節は発音の区切りのこと careful -> care + ful
+> 2音節でも er/est 変化する単語もある
+
+- The dictionary is more useful than that one. (この辞書はあの辞書より役に立つ)
+- This picture is the most beautiful of the five. (この絵は5枚の中で一番美しい)
 
 
+## 不規則変化
 
+|原級|比較級|最上級|
+|-|-|-|
+|good / well(元気、良い)|better|the best|
+|bad / badly(ひどく) / ill(悪い)|worse|the worst|
+|many(可算名詞での多い) / mach(不可算名詞での多い)|more|the most|
+|little|less|the least|
 
-
-
-
+- He has more books than she. (彼は彼女より多くの本を持っている)
+- This dictionary is more useful than that one. (この辞書はあの辞書より役立つ)
+- My son performed a dance better than they. (息子は彼らより上手に踊った)
+- His condition was worse this morning than last night. (今朝の彼の状態はサキャより悪かった)
 
