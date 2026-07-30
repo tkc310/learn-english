@@ -28,6 +28,7 @@ She is younger than me.
 
 > [!NOTE]
 > 副詞の前の the は省略してok
+> in / of のときは3つ以上の範囲の最上級
 
 
 ## 比較級 / 最上級の作り方
