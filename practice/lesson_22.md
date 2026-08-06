@@ -34,16 +34,32 @@ This building is getting [older] [and] [older].
 
 ## Lesson22の演習
 
+### 1. 正しい単語を選ぶ
+
+1. An envelope was sent (to) me by (them). (封筒が彼らから私に送られた) -> envelopeは封筒
+2. My nose was (hit) by someone. (私の花が誰かに殴られた)
+3. The man was (sleeping) in a chair. (その男は椅子で眠っていた)
+4. A lot of flowers (are) seen (in) the park.
+5. (Was) it (stolen) by the boys?
 
 
+## 2. 選択した単語を主語として受け身の英文にする
+
+1. People in Australia speak (English).<br>
+English is spoken in Australia.
+2. They call (me) Mama.<br>
+I'm called Mama by Them.
+3. He read (this book) last night.<br>
+This book read by him last night.
+4. She didn't smile at (them).<br>
+They weren't smiled at by her.
+5. Did he call (her) Natsuko?<br>
+Was she called Natsuko by him?
 
 
+### 3. 受け身表現の英文を2パターン作る
 
-
-
-
-
-
-
-
+They taught us history.
+1. We were taught history by them.
+2. History was taught to us by them.
 
