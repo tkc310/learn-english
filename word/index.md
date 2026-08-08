@@ -20,6 +20,13 @@
 - either: どちらか / neither: どちらでもない
   - You can print either this or that. (あなたはこれかあれのどちらかを印刷できる)
   - You can print neither this nor that. (あなたはこれもあれも印刷できない)
+- improve: 改善する、上達する、磨く
+  - He told me how he improved his English. (彼はどのように英語を上達させたか私に教えた)
+
+
+
+
+
 
 
 
