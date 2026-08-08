@@ -33,7 +33,8 @@
   - The producer isn't interesting in her gentle voice. (そのプロデューサーは彼女の穏やかな声に興味がない)
 - valuable: 貴重な
   - This wine is made from valuable grapes. (このワインは貴重なぶどうから作られている)
-
+- statue: 銅像
+  - Her child was crying by The statue then. (彼女が子供のその時、銅像の近くで泣いていた)
 
 
 
