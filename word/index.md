@@ -25,8 +25,8 @@
 - complain: 不満をいう
 - clerk: 店員
   - The customer complained and asked the clerk when the blanked would arrive. (その客は文句を言って、店員に毛布がいつ届くのか尋ねた)
-
-
+- silly: 馬鹿な、間抜けな
+  - Ayako was surprised at my silly face. (アヤコは私の間抜けな顔に驚いた)
 
 
 
