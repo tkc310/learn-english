@@ -6,5 +6,7 @@
 - resolve: 解消する
   - They dynamic tried to resolve the conflict. (彼らは対立を解消しようとした)
   - マイナスをゼロに戻すニュアンス
-
+- too: あまりにも
+  - I was too sleepy to go to the theater. (私はあまりにも眠くて映画館に行けなかった)
+- 
 
