@@ -29,6 +29,8 @@
   - Ayako was surprised at my silly face. (アヤコは私の間抜けな顔に驚いた)
 - terrible: ひどい、すさまじい
   - The terrible noise is known to most of the people on my block. (そのひどい騒音は私の地区の殆どの人々に知られている)
+- gentle: 穏やか、優しい
+  - The producer isn't interesting in her gentle voice. (そのプロデューサーは彼女の穏やかな声に興味がない)
 
 
 
