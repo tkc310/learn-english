@@ -27,6 +27,12 @@
   - The customer complained and asked the clerk when the blanked would arrive. (その客は文句を言って、店員に毛布がいつ届くのか尋ねた)
 - silly: 馬鹿な、間抜けな
   - Ayako was surprised at my silly face. (アヤコは私の間抜けな顔に驚いた)
+- terrible: ひどい、すさまじい
+  - The terrible noise is known to most of the people on my block. (そのひどい騒音は私の地区の殆どの人々に知られている)
+
+
+
+
 
 
 
