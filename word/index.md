@@ -2,7 +2,7 @@
 
 - solve: 解決する
   - It was too hard for me to solve the question on this top page. (このトップページの問題を解くのはあまりに難しくて私にはできなかった)
-  - ゼロをプラスにするニュアンス
+  - ピースを組み立てるニュアンス
 - resolve: 解消する
   - They dynamic tried to resolve the conflict. (彼らは対立を解消しようとした)
   - マイナスをゼロに戻すニュアンス
