@@ -17,9 +17,9 @@
 - pan: 鍋
 - boil: 沸騰させる、沸かす、茹でる、煮る
   - I wanted her to boil water in the pan. (私は彼女に鍋の水を沸かしてもらいたかった)
- 
-
-
+- either: どちらか / neither: どちらでもない
+  - You can print either this or that. (あなたはこれかあれのどちらかを印刷できる)
+  - You can print neither this nor that. (あなたはこれもあれも印刷できない)
 
 
 
