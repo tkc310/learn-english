@@ -22,9 +22,9 @@
   - You can print neither this nor that. (あなたはこれもあれも印刷できない)
 - improve: 改善する、上達する、磨く
   - He told me how he improved his English. (彼はどのように英語を上達させたか私に教えた)
-
-
-
+- complain: 不満をいう
+- clerk: 店員
+  - The customer complained and asked the clerk when the blanked would arrive. (その客は文句を言って、店員に毛布がいつ届くのか尋ねた)
 
 
 
