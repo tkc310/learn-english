@@ -35,7 +35,8 @@
   - This wine is made from valuable grapes. (このワインは貴重なぶどうから作られている)
 - statue: 銅像
   - Her child was crying by The statue then. (彼女が子供のその時、銅像の近くで泣いていた)
-
+- earthquake: 地震
+  - Many people [were] [killed] [in] a strong earthquake. (多くの人々が強い地震によってなくなった)
 
 
 
