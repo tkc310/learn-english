@@ -54,16 +54,22 @@ This job is had to be finished by us. -> 不定詞の受け身は「to + be + �
 2. I was too busy to eat after I arrived in Osaka.<br>
 私は大阪についた後にあまりにも忙しくて食事ができなかった
 3. He plays not only soccer but also baseball.<br>
-彼はサッカーだけでなく野球もできる
+彼はサッカーだけでなく野球もする
 
 
+### 3. 正しい語句を選ぶ
+
+1. You were sleeping (while) we were studying hard.
+2. Does he know what (he has) to do?
+3. I didn't know which (milk to use) for cooking.
 
 
+### 4. 正しい語句を入れる
 
-
-
-
-
-
-
+1. You can't eat either meat or bread.<br>
+You can eat neither meat nor bread.
+2. He was too tired to clean his room.<br>
+He was [so] tired [that] he [couldn't] [clean] his room.
+3. She said to me, "Turn on the light."<br>
+She [asked] [me] [to] turn on the light.
 
